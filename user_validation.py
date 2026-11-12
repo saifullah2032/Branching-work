@@ -27,3 +27,4 @@ while True:
     else:
         print("Password is valid.")
         break
+print(f"Your password is: {user_password}")

@@ -19,3 +19,4 @@ for row in range(rows):
         print(symbol, end="")
     print()
 print("Pattern complete.")
+print("-- The End --")
